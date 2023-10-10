@@ -1,6 +1,6 @@
 version: 2
 updates:
-  - package-ecosystem: "nuget"
-    directory: "/code/"
+  - package-ecosystem: "pip"
+    directory: "/authn-service"
     schedule:
       interval: "daily"
